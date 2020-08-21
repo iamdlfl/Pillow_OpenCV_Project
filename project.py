@@ -2,7 +2,6 @@ import zipfile
 import itertools
 
 from PIL import Image, ImageDraw, ImageFont
-from kraken import pageseg
 import pytesseract
 import cv2 as cv
 import numpy as np
